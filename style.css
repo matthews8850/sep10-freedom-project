@@ -2,3 +2,7 @@ a-scene {
 height: 200px;
 width: 300px;
 }
+
+bg-yellow {
+    color: #C37C00;
+}
