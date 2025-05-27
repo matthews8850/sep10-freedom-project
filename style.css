@@ -3,10 +3,10 @@ height: 200px;
 width: 300px;
 }
 
-bg-yellow {
+.bg-yellow {
     color: #C37C00;
 }
 
-mgn {
+.mgn {
     margin: 50px 0px 50px 0px;
 }
